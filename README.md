@@ -27,7 +27,7 @@ Key takeaways from students:
 ### Outline for the Tutorial Lessons 📖
 
 
-| Notebooks| **Module 1**| **Ray Core API Patterns for Tasks, Objects, and Actors ** |
+| Notebooks| **Module 1**|**Ray Core API Patterns for Tasks, Objects, and Actors** |
 |:---------| :-----------|:----------------------------------------------------------|
 | 00  | [Ray Tutorial Overview](ex_00_tutorial_overview) | Overview of this tutorial. |
 | 01  | [Ray Remote Functions ](ex_01_remote_funcs.ipynb) |The Remote Function as Stateless Tasks Pattern. |
