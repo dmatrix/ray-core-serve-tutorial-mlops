@@ -5,3 +5,5 @@ scikit-learn
 tune-sklearn
 xgboost-ray
 mlflow
+torch
+transformers

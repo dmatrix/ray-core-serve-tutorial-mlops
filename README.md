@@ -24,6 +24,25 @@ Key takeaways from students:
  * ⚙️ Configure compute resources and replicas to scale models in production
  * 📖 Learn about Ray Serve integrations with MLflow and FastAPI
 
+### Outline for the Tutorial Lessons 📖
+
+
+| Notebooks| **Module 1**| **Focus on Ray Core API Patterns and Ray CLI** |
+|:---------| :-----------|:------------------------------------------------|
+| 00  | [Ray Tutorial Overview](ex_00_tutorial_overview) | Overview of this tutorial. |
+| 01  | [Ray Remote Functions ](ex_01_remote_funcs.ipynb) |The Remote Function as StateLess Tasks Pattern. |
+| 02  | [Ray Remote Objects](ex_02_remote_objs.ipynb) |The Remote Objects as Futures Pattern. |
+| 03  | [Ray Remote Classes](ex_03_remote_classes.ipynb) |The Remote Classes as Stateful Actors Pattern |
+
+
+| Notebooks| **Module 2**|**Introduction Ray Serve and model deployments** |
+|:---------| :-----------|:------------------------------------------------|
+| 04  | [Ray Serve Model Serving Challenges](ex_04_model_serving_challenges.ipynb) | What are model serving challenges |
+| 05  | [Ray Serve Accessing Deployments]( ex_05_ray_serve_create_and_access_deployments.ipynb) | Create and access deployments |
+| 06  | [Ray Serve Model Composition](ex_06_model_composition.ipynb) | Model composition model deployment pattern|
+| 07  | [Ray Serve and MLflow Integration](ex_07_ray_serve_mlflow.ipynb) | A simple model trained, logged to MLflow, served in a Ray Serve deployment. |
+| 08  | [Ray Serve and FastAPI Integration](ex_08_ray_serve_fastapi.ipynb) | A simple XGBoost model trained, deployed, and accesses via FastAPI endpoints |
+| 09  | [Ray Serve End to End Example](ex_09_ray_serve_end_to_end.ipynb) | An end-to-end example using XGBoost, Tune, and Serve for classification model using diabetes dataset |
 
 ### 🧑‍🎓Prerequisite knowledge ###
 
