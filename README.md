@@ -17,7 +17,7 @@ to Ray Serve using core deployment APIs.
 And lastly, we will touch upon Ray Serve’s integration with model registries such as MLflow, walk through an end-to-end example, 
 and discuss and show Ray Serve’s integration with FastAPI.
 
-Key takeaways from students:
+Key takeaways for students:
  * 👩‍💻 Code Ray Core APIs to convert Python function/classes into a distributed setting
  * 📖 Learn to use Ray Serve APIs to create, expose, and deploy models with Ray Server APIs
  * ☑️ Access and call deployment endpoints in Ray Serve via Python or HTTP
