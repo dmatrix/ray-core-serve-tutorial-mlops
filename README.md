@@ -33,13 +33,11 @@ Key takeaways for students:
 | 01  | [Ray Remote Functions ](ex_01_remote_funcs.ipynb) |The Remote Function as Stateless Tasks Pattern. |
 | 02  | [Ray Remote Objects](ex_02_remote_objs.ipynb) |The Remote Objects as Futures Pattern. |
 | 03  | [Ray Remote Classes](ex_03_remote_classes.ipynb) |The Remote Classes as Stateful Actors Pattern |
-
-
-| Notebooks| **Module 2**|**Introduction to Ray Serve and model deployments** |
-|:---------| :-----------|:---------------------------------------------------|
+|     |**Module 2**|**Introduction to Ray Serve and model deployments** |
 | 04  | [Ray Serve Model Serving Challenges](ex_04_model_serving_challenges.ipynb) | What are model serving challenges |
 | 05  | [Ray Serve Accessing Deployments]( ex_05_ray_serve_create_and_access_deployments.ipynb) | Create, deploy and access Ray Serve deployments |
 | 06  | [Ray Serve Model Composition](ex_06_model_composition.ipynb) | Model composition model deployment pattern. A sentiment analysis model using HuggingFace 🤗 transformers|
+|     | **Extras** | **Ray Serve Integration and end-to-end example** |
 | 07  | [Ray Serve and MLflow Integration](ex_07_ray_serve_mlflow.ipynb) | A simple model trained, logged to MLflow registry and served from in a Ray Serve deployment. |
 | 08  | [Ray Serve and FastAPI Integration](ex_08_ray_serve_fastapi.ipynb) | A simple XGBoost model trained, deployed, and accesses via FastAPI endpoints |
 | 09  | [Ray Serve End to End Example](ex_09_ray_serve_end_to_end.ipynb) | An end-to-end example using XGBoost, Tune, and Ray Serve for classification model using diabetes dataset |
