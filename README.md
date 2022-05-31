@@ -29,7 +29,7 @@ Key takeaways for students:
 
 | Notebooks| **Module 1**|**Ray Core API Patterns for Tasks, Objects, and Actors** |
 |:---------| :-----------|:----------------------------------------------------------|
-| 00  | [Ray Tutorial Overview](ex_00_tutorial_overview) | Overview of this tutorial. |
+| 00  | [Ray Tutorial Overview](ex_00_tutorial_overview.ipynb) | Overview of this tutorial. |
 | 01  | [Ray Remote Functions ](ex_01_remote_funcs.ipynb) |The Remote Function as Stateless Tasks Pattern. |
 | 02  | [Ray Remote Objects](ex_02_remote_objs.ipynb) |The Remote Objects as Futures Pattern. |
 | 03  | [Ray Remote Classes](ex_03_remote_classes.ipynb) |The Remote Classes as Stateful Actors Pattern |
