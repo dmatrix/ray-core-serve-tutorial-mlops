@@ -59,7 +59,7 @@ We assume that you have a `conda` installed.
 
  1. `conda create -n ray-core-serve-tutorial python=3.8`
  2. `conda activate ray-core-serve-tutorial`
- 3. `git clone git@github.com:dmatrix/ray-core-serve-tutorial.git`
+ 3. `git clone git@github.com:dmatrix/ray-core-serve-tutorial-mlops.git`
  4. `cd` to <cloned_dir>
  5. `python3 -m pip install -r requirements.txt`
  6. `python3 -m ipykernel install`
