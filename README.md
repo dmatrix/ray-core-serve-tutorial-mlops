@@ -63,17 +63,12 @@ We assume that you have a `conda` installed.
  4. `cd` to <cloned_dir>
  5. `python3 -m pip install -r requirements.txt`
  6. `python3 -m ipykernel install`
- 7. `jupyter lab`
+ 7. `conda install jupyterlab`
+ 8. `jupyter lab`
  
- If you are using **Apple M1 laptop** 🍎 follow the following instructions:
+ If you are using **Apple M1 laptop** 🍎 run the following additional command:
  
- 1. `conda create -n ray-core-tutorial-testing python=3.8`
- 2. `conda activate ray-core-tutorial-testing`
- 3. `conda install grpcio`
- 4. `python3 -m pip install -r requirements.txt`
- 5. `python3 -m ipykernel install`
- 6. `conda install jupyterlab`
- 7. `jupyter lab`
+ 9. `conda install grpcio`
  
 Let's have 😜 fun with Ray @ MLOps World 2022!
 
