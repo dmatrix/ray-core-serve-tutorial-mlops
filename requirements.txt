@@ -7,3 +7,4 @@ xgboost-ray
 mlflow
 torch
 transformers
+matplotlib
