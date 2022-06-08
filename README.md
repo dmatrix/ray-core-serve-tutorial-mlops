@@ -35,7 +35,7 @@ Key takeaways for students:
 | 03  | [Ray Remote Classes](ex_03_remote_classes.ipynb) |The Remote Classes as Stateful Actors Pattern |
 |     |**Module 2**|**Introduction to Ray Serve and model deployments** |
 | 04  | [Ray Serve Model Serving Challenges](ex_04_model_serving_challenges.ipynb) | What are model serving challenges |
-| 06  | [Ray Serve Model Composition](ex_05_model_composition.ipynb) | Model composition model deployment pattern. A sentiment analysis model using HuggingFace 🤗 transformers|
+| 05  | [Ray Serve Model Composition](ex_05_model_composition.ipynb) | Model composition model deployment pattern. A sentiment analysis model using HuggingFace 🤗 transformers|
 |     | **Extras** | **Ray Serve Integration and end-to-end example** |
 | 06  | [Ray Serve and MLflow Integration](ex_06_ray_serve_mlflow.ipynb) | A simple model trained, logged to MLflow registry and served from in a Ray Serve deployment. |
 | 07  | [Ray Serve and FastAPI Integration](ex_07_ray_serve_fastapi.ipynb) | A simple XGBoost model trained, deployed, and accesses via FastAPI endpoints |
